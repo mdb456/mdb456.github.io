@@ -1,0 +1,52 @@
+#container {
+    background-color: black;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+#businessname {
+    text-align: center;
+    font-family: "Alfa Slab One", serif;
+    padding-top: 1rem;
+}
+#trailer {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.concert-one-regular {
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .alfa-slab one-regular {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #slogan {
+    text-align: center;
+    font-family: "Concert One", sans-serif;
+    font-size: 2em;
+  }
+  #phone {
+    float: left;
+    width: 50%;
+    text-align: left;
+    padding-left: 5rem;
+    
+    
+  }
+  #email {
+    float: right;
+    width: 50%;
+    text-align: right;
+    padding-right: 5rem;
+    
+  }
+  .footer {
+    display: flex;
+    font-family: "Concert One", sans-serif;
+  }
